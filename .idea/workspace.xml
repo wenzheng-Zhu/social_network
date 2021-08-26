@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff1f6218-1439-46f2-bf67-aa803f6c0e6a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/controllers/apis/v1/base_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/apis/v1/base_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/apis/v1/sessions_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/apis/v1/sessions_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/apis/v1/users_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/apis/v1/users_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/concerns/sessions_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/concerns/sessions_helper.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/article.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/article.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/relationship.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/relationship.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/migrate/20210825172156_add_token_to_users.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrate/20210825172156_add_token_to_users.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/migrate/20210825182053_create_articles.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrate/20210825182053_create_articles.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/migrate/20210825201733_create_relationships.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrate/20210825201733_create_relationships.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,6 +160,7 @@
       <workItem from="1629893100472" duration="8568000" />
       <workItem from="1629906286299" duration="18080000" />
       <workItem from="1629927391547" duration="1687000" />
+      <workItem from="1629937568930" duration="350000" />
     </task>
     <servers />
   </component>
